@@ -1,4 +1,4 @@
-package com.innowise.defaultgateway;
+package com.strupinski.defaultgateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @SpringBootApplication
 @EnableDiscoveryClient
 public class DefaultGatewayApplication {
-
     public static void main(String[] args) {
         SpringApplication.run(DefaultGatewayApplication.class, args);
     }

@@ -1,4 +1,4 @@
-package com.innowise.defaultgateway;
+package com.strupinski.defaultgateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
